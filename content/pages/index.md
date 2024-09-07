@@ -16,8 +16,7 @@ sections:
     title: >-
       I am a Data Scientist with 2 years of experience in Data Analytics and
       Development. I have worked on applications and microservices deployed on
-      IBM Cloud. I have completed many certificates from Coursera and eager to
-      work in Google one day as a Data Engineer.
+      IBM Cloud.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
