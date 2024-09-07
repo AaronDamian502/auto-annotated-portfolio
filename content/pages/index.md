@@ -18,9 +18,11 @@ sections:
       Development. I have worked on applications and microservices deployed on
       IBM Cloud.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Welcome to my portfolio! Explore my professional journey in data science,
+      analytics, and machine learning. Discover my academic achievements,
+      hands-on projects, and skills in Python, R, and advanced Excel. I'm
+      passionate about transforming data into insights. Thanks for visiting and
+      connecting with my work and interests!
     styles:
       self:
         height: auto
