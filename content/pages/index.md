@@ -206,7 +206,7 @@ sections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/_8c790e21-92d5-4849-af16-98f57bc55f1c.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
