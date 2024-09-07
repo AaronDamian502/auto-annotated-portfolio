@@ -12,7 +12,8 @@
                 "type": "Link",
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/aaron-damian-9b0a3227a/",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "linkedin"
             },
             {
                 "type": "Link",
