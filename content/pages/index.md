@@ -201,7 +201,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/_5f2a2625-04ba-4bd9-bb77-31d976f85d55.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
