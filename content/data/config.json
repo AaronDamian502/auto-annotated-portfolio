@@ -70,12 +70,6 @@
                 "label": "email: aarondamian502@gmail.com",
                 "url": "aarondamian502@gmail.com",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/AaronDamian502",
-                "altText": "Netlify templates"
             }
         ],
         "contacts": {
